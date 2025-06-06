@@ -1,0 +1,10 @@
+[project]
+name = "kolega-bot"
+version = "1.0.0"
+description = "Telegram trading bot"
+authors = ["Maks <you@example.com>"]
+requires-python = ">=3.11"
+
+[tool.poetry.dependencies]
+flask = "*"
+pytelegrambotapi = "*"
